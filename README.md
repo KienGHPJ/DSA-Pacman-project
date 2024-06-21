@@ -6,14 +6,13 @@ This project is a Pac-Man game implementation developed as part of a Data Struct
 
 ## Project Structure
 
-    DSA Pac-Man Project
+    src
     ├── Behaviours
     ├── GhoulBehaviours
     ├── Model
     ├── game
     ├── pacmanbehaviors
     ├── resources
-    ├── sprites
     ├── src.di
     ├── src.notation
     └── src.uml
