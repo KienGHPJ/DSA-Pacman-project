@@ -38,8 +38,7 @@ DSA Pac-Man Project
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/dsa-pacman-project.git
-    cd dsa-pacman-project
+    https://github.com/KienGHPJ/DSA-Pacman-project.git
     ```
 
 2. Open the project in your preferred Java IDE (e.g., IntelliJ IDEA, Eclipse).
